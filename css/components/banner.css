@@ -1,0 +1,19 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(38, 65, 134, 0.2), rgba(255, 255, 255, 0.2)), url(../../images/beachbanner.jpg);
+	color: white;
+	padding: 200px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1, {
+	font-size: 44px;
+	font-weight: bold;
+}
+
+.banner h2 {
+	font-size: 26px;
+	margin-bottom: 50px;
+	font-weight: lighter;
+	opacity: 0.8;
+}
